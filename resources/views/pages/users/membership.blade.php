@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container mt-4 ">
-       <div class="row mb-2">
+     <div class="row mb-2">
          <div class="col-sm-12 ">
          <h2 class="text-center ">Membership Registration Form</h2>
         <form>
