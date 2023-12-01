@@ -86,8 +86,8 @@
                                 </button>
                             </div>
                             <div class="col-md-12 d-flex ">
-                            Don't have account?
-                            <a class=" mx-1" href="{{ route('register') }}">{{ __('Click Here To Register...') }}</a>
+                            Forgot password?
+                            <a class=" mx-1" href="{{ route('register') }}">{{ __('Recover Here...') }}</a>
                             </div>
                         </div>
                     </form>
